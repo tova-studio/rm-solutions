@@ -1,0 +1,65 @@
+{
+  "schema": 1,
+  "source": "tova-explore",
+  "generatedAt": "2026-11-25T03:02:39.351Z",
+  "slug": "rmsolutions",
+  "name": "RM Solutions",
+  "city": "Christchurch",
+  "industry": {
+    "label": "Vets",
+    "niche": "vets",
+    "group": "Health & medical"
+  },
+  "contact": {
+    "phone": "+6434212965",
+    "email": "marketing.mrsolutions@gmail.com",
+    "address": "13 Hewlings St, Christchurch"
+  },
+  "social": {
+    "facebook": "https://www.facebook.com/159101897765443"
+  },
+  "about": {},
+  "before": {
+    "url": "http://www.rmsolutions.co.nz",
+    "domain": "rmsolutions.co.nz",
+    "finalUrl": "http://www.rmsolutions.co.nz/",
+    "pages": 2,
+    "score": 57,
+    "assessedAt": "2026-11-22T13:19:07.279Z",
+    "issues": [
+      {
+        "id": "no-https",
+        "title": "Not served over HTTPS",
+        "evidence": "Final URL is http://www.rmsolutions.co.nz/. Browsers label this site \"Not secure\"."
+      },
+      {
+        "id": "no-contact-path",
+        "title": "No easy way to get in touch",
+        "evidence": "No tap-to-call link and no enquiry form on the homepage."
+      },
+      {
+        "id": "weak-title",
+        "title": "Weak or missing page title",
+        "evidence": "No <title> found, hurting Google search appearance."
+      },
+      {
+        "id": "no-meta-desc",
+        "title": "No search description",
+        "evidence": "No meta description, so Google chooses random page text for search results."
+      },
+      {
+        "id": "no-schema",
+        "title": "No local-business search markup",
+        "evidence": "No structured data, so Google has less to show for the business."
+      }
+    ],
+    "screenshot": "screenshots/before-desktop.jpg"
+  },
+  "ours": {
+    "pagesUrl": "https://tova-studio.github.io/rm-solutions/",
+    "repoUrl": "https://github.com/tova-studio/rm-solutions",
+    "generator": "claude",
+    "screenshot": "screenshots/after-desktop.jpg",
+    "publishedAt": "2026-11-25T03:02:39.351Z"
+  }
+}
